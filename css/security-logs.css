@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+
+body{
+    background-image: url('../images/laaand.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.seclog-1{
+    margin-top: 10rem;
+    margin-left: 3rem;
+}
+
+strong{
+    margin-left: 3rem;
+
+}
+
+.btn-signout{
+    border-radius: 1.3rem;
+    width: 2rem;
+    height: 1rem;
+}
+
+table{
+    border: 1px;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+td{
+    margin-top: 2rem;
+}
