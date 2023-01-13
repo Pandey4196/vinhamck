@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
-
 body{
+    font-family: Poppins;
     background-image: url('../images/laaand.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .seclog-1{
-    margin-top: 10rem;
+    margin-top: 8rem;
     margin-left: 3rem;
 }
 
@@ -18,16 +18,36 @@ strong{
 }
 
 .btn-signout{
-    border-radius: 1.3rem;
-    width: 2rem;
-    height: 1rem;
+    border-radius:2rem;
+    height:3rem;
+    width:10rem;
+    text-align: center;
+    padding-bottom: 0;
+    padding-top: 1rem;
+    vertical-align: top;
+    margin-left: 84%;
+    font-family: poppins;
+    background-color: #3547A3;;
+    color:white;
+    margin-top:1rem;
+    font-size: large;
 }
 
-table{
-    border: 1px;
+table,th,td{
+    border: solid 1px;
     margin-left: 3rem;
-    margin-top: 2rem;
+    padding: 1rem 0rem 1rem 1rem;
+    text-align: center;
+
 }
-td{
-    margin-top: 2rem;
+table{
+    width: 95%;
+    border-collapse: collapse;
+
 }
+
+th{
+    color: #4859B2;
+
+}
+
