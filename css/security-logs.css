@@ -6,7 +6,7 @@ body{
     font-family: Poppins;
     background-image: url('../images/laaand.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 
 .seclog-1{
@@ -53,6 +53,7 @@ table{
 
 th{
     color: #4859B2;
+    border-color: #000;
 
 }
 

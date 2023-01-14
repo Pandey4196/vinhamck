@@ -12,6 +12,25 @@ a{
     color: #fff;
 }
 
+.btn-signout{
+    border-radius:2rem;
+    height:2.5rem;
+    width:10rem;
+    text-align: center;
+    padding-bottom: 0.74;
+    padding-top: 0.75rem;
+    vertical-align: top;
+    margin-top:1rem;    
+    margin-left: 84%;
+    font-family: poppins;
+    background-color: #3547A3;;
+    color:white;
+    font-size: large;
+    line-height: normal;
+    padding-bottom: 0;
+}
+
+
 .button-signout{
     border-radius: 2rem;
     border-width:0;
