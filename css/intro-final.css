@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+
+body{
+    background-image: url("../images/intro-trial.png");
+    background-repeat:none;
+    background-size:cover;
+    font: poppins;
+}
+
+.fixed-vector{
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 9%;
+}
