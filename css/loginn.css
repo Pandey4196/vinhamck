@@ -1,19 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
 body{
-    background-image: url("../images/login-bg.png");
-    background-repeat:none;
-    background-size:cover;
+    background-image: url('../images/signup.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-
 
 .button-submit{
     display:flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #233696;
-    border-width: 0rem;
+    /* border-width: 0rem; */
+    padding: 0.5rem;
     color:white;
-    border-radius:0.2rem;
+    border-radius:1rem;
     margin-top: 0.5rem;
+    font-family: poppins;
+    /* height:2rem; */
+    width:30%;
+    text-align: center;
 }
 
 .input-login1{
@@ -24,13 +30,35 @@ body{
 }
 
 .div-login{
-    margin-top: 20%;
-    margin-left: 70%;;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 18%;
+    margin-left: 55%;;
 }
 
 .username{
+    width:50%;
     margin-top: 0.5rem;
 }
 .password{
-    margin-top: 0.5rem;
+    width:50%;
+    margin-top: 0.7rem;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+label{
+    color:#233696;
+    font-family: poppins;
+    font-size: x-large;
+}
+
+input{
+    border-radius:0.5rem;
+    height: 2rem;
 }

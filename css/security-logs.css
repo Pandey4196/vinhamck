@@ -12,10 +12,16 @@ body{
 .seclog-1{
     margin-top: 7rem;
     margin-left: 3rem;
+    font-size: 175%;
+    margin-bottom: 0%;
 }
 
 .header{
     margin-left: 3rem;
+    margin-top: 0;
+    margin-bottom: auto;
+    margin-right: 0;
+
     font-weight: 800;
 }
 

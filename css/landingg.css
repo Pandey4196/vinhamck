@@ -1,35 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
+/* code works dont change */
 
 body{
     background-image: url('../images/laaand.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-a{
-    text-decoration: none;
-    color: #fff;
-}
-
-.btn-signout{
-    border-radius:2rem;
-    height:2.5rem;
-    width:10rem;
-    text-align: center;
-    padding-bottom: 0.74;
-    padding-top: 0.75rem;
-    vertical-align: top;
-    margin-top:1rem;    
-    margin-left: 84%;
-    font-family: poppins;
-    background-color: #3547A3;;
-    color:white;
-    font-size: large;
-    line-height: normal;
-    padding-bottom: 0;
-}
-
 
 .button-signout{
     border-radius: 2rem;
@@ -57,7 +34,7 @@ a{
     height:4rem;
     width:17%;
     font-family:poppins;
-    background-color: #3547A3;;
+    background-color: #3547A3;
     border-width:0;
     color:white;
     margin-top:0.1rem;
@@ -80,6 +57,11 @@ a{
     font-family:poppins;
     background-color: white;
     font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
 }
 
 .mini-text{
@@ -112,4 +94,9 @@ a{
     display: flex;
     justify-content: center;
     margin-top:1rem;
+}
+
+a{
+    text-decoration: none;
+    color:white;
 }
