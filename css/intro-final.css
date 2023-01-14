@@ -2,7 +2,7 @@
 
 
 body{
-    background-image: url("../images/intro-trial.png");
+    background-image: url("../images/intro-new.png");
     background-repeat:none !important;
     background-size:cover;
     font: poppins;
@@ -31,7 +31,7 @@ a{
     background-color: #3547A3;
     color:white !important;
     margin-top:0.7rem;
-    margin-left: 74%;
+    margin-left: 77%;
     font-size: 1.5rem;
 }
 
@@ -41,8 +41,9 @@ a{
     width:11%;
     font-family:poppins;
     color: #3547A3;
+    border: 0px;
     background-color:white !important;
-    margin-left: 74%;
+    margin-left: 77%;
     font-size: 1.5rem;
 }
 
