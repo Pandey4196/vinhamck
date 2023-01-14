@@ -6,3 +6,5 @@
 3. [Django](https://docs.djangoproject.com/en/4.1/)
 4. [OpenCV](https://docs.opencv.org/4.x/)
 5. [TensorFlow](https://www.tensorflow.org/api_docs)
+6. [YOLO v3](https://pjreddie.com/darknet/yolo/)
+7. [Tesseract](https://github.com/tesseract-ocr/tesseract)
